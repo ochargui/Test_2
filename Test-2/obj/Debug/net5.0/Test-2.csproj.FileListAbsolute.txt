@@ -1,0 +1,16 @@
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.exe
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.deps.json
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.runtimeconfig.json
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.runtimeconfig.dev.json
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.dll
+C:\Users\oumay\source\repos\Test-2\Test-2\bin\Debug\net5.0\Test-2.pdb
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.csproj.AssemblyReference.cache
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.AssemblyInfoInputs.cache
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.AssemblyInfo.cs
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.csproj.CoreCompileInputs.cache
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.dll
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\refint\Test-2.dll
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.pdb
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\Test-2.genruntimeconfig.cache
+C:\Users\oumay\source\repos\Test-2\Test-2\obj\Debug\net5.0\ref\Test-2.dll
